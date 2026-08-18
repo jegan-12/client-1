@@ -88,47 +88,9 @@ client-1/
 - Node.js (`v18.0.0` or higher)
 - npm or pnpm
 
-### Local Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/jegan-12/client-1.git
-   cd client-1
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Configure Environment Variables**:
-   Create a `.env` file in the root directory:
-   ```env
-   VITE_EMAILJS_SERVICE_ID=service_142ca74
-   VITE_EMAILJS_TEMPLATE_ID=template_amzndmd
-   VITE_EMAILJS_PUBLIC_KEY=lk4QG9BZysc3Si_9k
-   ```
-
-4. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
-
-5. **Build for production**:
-   ```bash
-   npm run build
-   ```
-
----
-
 ## 🌐 Deployment
 
 This project is pre-configured for **Netlify**:
 - `netlify.toml` handles the build command (`npm run build`), output directory (`dist`), and SPA 200 rewrite rules for client-side routing.
 
 ---
-
-## 📄 License & Credits
-
-- Designed & Developed for **Sharukash T**
-- Portfolio Content & Assets © 2026 Sharukash T. All Rights Reserved.
