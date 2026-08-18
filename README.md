@@ -94,3 +94,10 @@ This project is pre-configured for **Netlify**:
 - `netlify.toml` handles the build command (`npm run build`), output directory (`dist`), and SPA 200 rewrite rules for client-side routing.
 
 ---
+
+## 🔒 Proprietary & Locked Repository
+
+> **IMPORTANT**: This repository is published for **showcase and demonstration purposes only**.
+> 
+> **Copyright © 2026. All Rights Reserved.**  
+> Unauthorized copying, cloning, downloading, modification, distribution, or installation of this software or its source code, via any medium, is strictly prohibited without explicit prior written permission from the owner.
