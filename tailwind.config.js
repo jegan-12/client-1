@@ -9,7 +9,7 @@ export default {
       colors: {
         brand: {
           orange: '#85D600',
-          lime: '#75a12eff',
+          lime: '#7ec013ff',
           bg: '#E4E2E3',
           dark: '#161616',
           light: '#FEF8E8',
